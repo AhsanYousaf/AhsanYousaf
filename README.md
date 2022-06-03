@@ -12,7 +12,7 @@
 <div>
   <samp>
    <p align="center">
-      <a href="https://www.facebook.com/ahsan.bhatti)" target="blank"><img align="center"
+      <a href="https://www.facebook.com/ahsan.bhatti.10236/" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="https://wa.me/+923128301970" target="blank"><img align="center"
