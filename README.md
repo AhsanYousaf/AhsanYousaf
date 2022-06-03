@@ -14,7 +14,7 @@
    <p align="center">
       <a href="https://www.facebook.com/chentoo.bhatti/" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="azzar" height="30" width="30"/></a>
+         alt="azzar" height="30"/></a>
       <a href="https://wa.me/+923128301970" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
