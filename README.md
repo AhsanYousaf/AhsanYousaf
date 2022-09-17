@@ -8,7 +8,7 @@
 </div>
 
 <div>
-  <summary>☎️ contact</summary>
+  <summary>☎️ contact me</summary>
 <div>
   <samp>
    <p align="center">
